@@ -16,7 +16,7 @@
       </picture>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM7087&layout=compact&langs_count=10&custom_title=Linguagens%20Mais%20Usadas&hide_progress=true&theme=dark" />
+     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JM7087&layout=compact&langs_count=10&custom_title=Linguagens%20Mais%20Usadas&hide_progress=false&theme=tokyonight"/>
     </td>
   </tr>
 </table>
