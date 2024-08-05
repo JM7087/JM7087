@@ -1,7 +1,7 @@
-<h1 align="center">Oi Eu Sou João Marcos</h1> ♿ 
+<h1 align="center">Oi Eu Sou João Marcos ♿</h1>
 
 <table>
-    <caption> <h2 align="center"> Estatísticas </h2> </caption>
+    <caption> <h2 align="center"> Estatísticas 📊</h2> </caption>
   <tr>
     <td>
       <picture>
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<h2 align="center">Ferramentas e Tecnologias</h2>
+<h2 align="center">Ferramentas e Tecnologias 💻</h2>
 
 <div align="center">
   
