@@ -1,4 +1,4 @@
-<h1 align="center">Oi Eu Sou João Marcos</h1>
+<h1 align="center">Oi Eu Sou João Marcos</h1> ♿ 
 
 <table>
     <caption> <h2 align="center"> Estatísticas </h2> </caption>
